@@ -25,3 +25,4 @@ Used to create and manage accounts, set certain application settings, restrict s
 - Java for the app logic
 - Java Swing for the UI
 - MySQL database
+- MySQL Connector to connect to the database
